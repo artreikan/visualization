@@ -1,3 +1,2 @@
-# Просто наркоманская дичь сделанная на Web Audio API и Canvas
-Эпилептикам противопоказано к просмотру. Но вы все равно смотрите  
-[Демо](https://artreikan.github.io/dich/)
+# Визуализация, сделанная на Web Audio API и Canvas 
+[Демо](https://artreikan.github.io/visualization/)

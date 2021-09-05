@@ -19,7 +19,7 @@ window.onload = function () {
 
 function setUpAudio () {
 	var audio = document.createElement('audio');
-	audio.src = 'Wice - Vandalism.mp3';
+	audio.src = 'Draper - Pressure (feat. Laura Brehm).mp3';
 	audio.controls = 'true';
 	document.body.appendChild(audio);
 

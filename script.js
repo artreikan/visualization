@@ -28,7 +28,6 @@ function setUpAudio () {
 	var source = audioContext.createMediaElementSource(audio);
 	source.connect(analyzer);
 	analyzer.connect(audioContext.destination);
-	audio.play();
 }
 
 function draw () {
